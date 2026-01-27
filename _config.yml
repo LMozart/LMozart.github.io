@@ -1,0 +1,65 @@
+# Basic Information 
+title: Zongrui Li
+position: Ph.D. Student
+affiliation: Nanyang Technological University (NTU)
+subaffiliation: Rapid-Rich Object Search Lab (ROSE)
+affiliation_link: https://www.ntu.edu.sg/
+subaffiliation_link: https://www.ntu.edu.sg/rose
+affiliation_logo:
+email: zongrui001@e.ntu.edu.sg
+address:
+address_link:
+
+# Search Engine Optimization (SEO)
+keywords: zongrui li, lmozart, computer vision, computer graphics
+canonical: https://zongrui.page/
+description: Zongrui Li is a Ph.D. student at the Rapid-Rich Object Search Lab (ROSE), Nanyang Technological University. His research focuses on computer vision and computer graphics, including PBR, photometric stereo, NeRF, and 3D generative models.
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+cv_link: ./files/CV.pdf
+google_scholar: https://scholar.google.com/citations?user=rxUBQakAAAAJ&hl=zh-CN
+github_link: https://github.com/LMozart
+
+# Images 
+avatar: ./images/zongrui_profolio.jpg
+favicon: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E%F0%9F%8E%93%3C/text%3E%3C/svg%3E"
+favicon_dark: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E%F0%9F%8E%93%3C/text%3E%3C/svg%3E"
+
+# Footnotes
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: false
+#footnote: Feel free to use my website's source code.
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+clustrmaps_id:
+google_analytics:
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
+  - vendor
+  - vendor/bundle
+  - .bundle

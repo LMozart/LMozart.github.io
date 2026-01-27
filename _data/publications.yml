@@ -1,0 +1,69 @@
+main:
+
+  - title: "Monocular Normal Estimation via Shading Sequence Estimation"
+    authors: "<strong>Zongrui Li*</strong>, Xinhua Ma*, Minghui Hu, Yunqing Zhao, Yingchen Yu, Qian Zheng, Chang Liu, Xudong Jiang, Song Bai"
+    conference_short: ICLR 2026
+    conference: International Conference on Learning Representations (ICLR), 2026
+    image: ./images/ROSE/teaser.png
+
+  - title: "RigMo: Unifying Rig and Motion Learning for Generative Animation"
+    authors: "Hao Zhang, Jiahao Luo, Bohui Wan, Yizhou Zhao, <strong>Zongrui Li</strong>, Michael Vasilkovsky, Chaoyang Wang, Jian Wang, Narendra Ahuja, Bing Zhou"
+    conference_short: arXiv
+    conference: arXiv Preprint, 2026
+    pdf: https://arxiv.org/abs/2601.06378
+    image: ./images/RigMo/teaser.png
+
+  - title: "Revisiting Supervised Learning-Based Photometric Stereo Networks"
+    authors: "Xiaoyao Wei, <strong>Zongrui Li</strong>, Binjie Ding, Boxin Shi, Xudong Jiang, Gang Pan, Qian Zheng, Yanlong Cao"
+    conference_short: TPAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025
+    pdf: https://downloads.ctfassets.net/yreyglvi5sud/6sgqvQLHmJyqeGshEQBzzR/864c79531e24452326cab06fc0bce103/Wei_TPAMI25.pdf
+    image: ./images/ESSENCE-Net/pipeline.png
+
+  - title: "Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting"
+    authors: "Weixing Zhang*, <strong>Zongrui Li*</strong>, De Ma, Huajin Tang, Xudong Jiang, Qian Zheng, Gang Pan"
+    conference_short: arXiv
+    conference: arXiv Preprint, 2024
+    pdf: https://arxiv.org/abs/2410.07266
+    code: https://github.com/zju-bmi-lab/spikinggs
+    image: ./images/SpikingGS/teaser.png
+
+  - title: "Are LLMs Good Zero-Shot Fallacy Classifiers?"
+    authors: "Fengjun Pan*, Xiaobao Wu*, <strong>Zongrui Li</strong>, Anh Tuan Luu"
+    conference_short: EMNLP 2024
+    conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
+    pdf: https://arxiv.org/abs/2410.15050
+    code: https://github.com/panfjcharlotte98/fallacy_detection
+    image: ./images/LLM-Fallacy/main.png
+
+  - title: "Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation"
+    authors: "<strong>Zongrui Li*</strong>, Minghui Hu*, Qian Zheng, Xudong Jiang"
+    conference_short: ECCV 2024
+    conference: European Conference on Computer Vision (ECCV), 2024
+    pdf: https://arxiv.org/abs/2407.13584
+    page: https://lmozart.github.io/ECCV2024-GCS-BEG/
+    image: ./images/GCS/main.png
+
+  - title: "Spin-UP: Spin Light for Natural Light Uncalibrated Photometric Stereo"
+    authors: "<strong>Zongrui Li*</strong>, Zhan Lu*, Haojie Yan, Boxin Shi, Gang Pan, Qian Zheng, Xudong Jiang"
+    conference_short: CVPR 2024
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+    pdf: https://arxiv.org/abs/2404.01612
+    page: https://zongrui.page/CVPR2024-SpinUP
+    image: ./images/Spin-UP/teaser.png
+
+  - title: "DANI-Net: Uncalibrated Photometric Stereo by Differentiable Shadow Handling, Anisotropic Reflectance Modeling, and Neural Inverse Rendering"
+    authors: "<strong>Zongrui Li</strong>, Qian Zheng, Boxin Shi, Gang Pan, Xudong Jiang"
+    conference_short: CVPR 2023
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+    pdf: https://arxiv.org/abs/2303.15101
+    page: https://lmozart.github.io/CVPR2023-DANI-Net/
+    bibtex: ./data/cvpr23-dani-net.bib
+    image: ./images/DANI-Net/teaser.png
+
+  - title: "NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo"
+    authors: "<strong>Zongrui Li</strong>, Qian Zheng, Feishi Wang, Boxin Shi, Gang Pan, Xudong Jiang"
+    conference_short: arXiv
+    conference: arXiv Preprint, 2022
+    pdf: https://arxiv.org/abs/2208.08897
+    image: ./images/NeIF/teaser.png

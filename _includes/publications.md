@@ -18,7 +18,8 @@ The code is written in Markdown and is intended to be used in a website or web p
 -->
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=rxUBQakAAAAJ&hl=zh-CN" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 30px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=rxUBQakAAAAJ&hl=zh-CN" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
+<p style="margin: 12px 0 0; font-size: 13px;"><sup>#</sup> corresponding author, <sup>*</sup> equal contribution.</p>
 
 
 <div class="publications">

@@ -20,21 +20,21 @@ main:
     pdf: https://downloads.ctfassets.net/yreyglvi5sud/6sgqvQLHmJyqeGshEQBzzR/864c79531e24452326cab06fc0bce103/Wei_TPAMI25.pdf
     image: ./images/ESSENCE-Net/pipeline.png
 
-  - title: "Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting"
-    authors: "Weixing Zhang*, <strong>Zongrui Li*</strong>, De Ma, Huajin Tang, Xudong Jiang, Qian Zheng, Gang Pan"
-    conference_short: arXiv
-    conference: arXiv Preprint, 2024
-    pdf: https://arxiv.org/abs/2410.07266
-    code: https://github.com/zju-bmi-lab/spikinggs
-    image: ./images/SpikingGS/teaser.png
+  # - title: "Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting"
+  #   authors: "Weixing Zhang*, <strong>Zongrui Li*</strong>, De Ma, Huajin Tang, Xudong Jiang, Qian Zheng, Gang Pan"
+  #   conference_short: arXiv
+  #   conference: arXiv Preprint, 2024
+  #   pdf: https://arxiv.org/abs/2410.07266
+  #   code: https://github.com/zju-bmi-lab/spikinggs
+  #   image: ./images/SpikingGS/teaser.png
 
-  - title: "Are LLMs Good Zero-Shot Fallacy Classifiers?"
-    authors: "Fengjun Pan*, Xiaobao Wu*, <strong>Zongrui Li</strong>, Anh Tuan Luu"
-    conference_short: EMNLP 2024
-    conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
-    pdf: https://arxiv.org/abs/2410.15050
-    code: https://github.com/panfjcharlotte98/fallacy_detection
-    image: ./images/LLM-Fallacy/main.png
+  # - title: "Are LLMs Good Zero-Shot Fallacy Classifiers?"
+  #   authors: "Fengjun Pan*, Xiaobao Wu*, <strong>Zongrui Li</strong>, Anh Tuan Luu"
+  #   conference_short: EMNLP 2024
+  #   conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
+  #   pdf: https://arxiv.org/abs/2410.15050
+  #   code: https://github.com/panfjcharlotte98/fallacy_detection
+  #   image: ./images/LLM-Fallacy/main.png
 
   - title: "Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation"
     authors: "<strong>Zongrui Li*</strong>, Minghui Hu*, Qian Zheng, Xudong Jiang"
@@ -61,9 +61,9 @@ main:
     bibtex: ./data/cvpr23-dani-net.bib
     image: ./images/DANI-Net/teaser.png
 
-  - title: "NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo"
-    authors: "<strong>Zongrui Li</strong>, Qian Zheng, Feishi Wang, Boxin Shi, Gang Pan, Xudong Jiang"
-    conference_short: arXiv
-    conference: arXiv Preprint, 2022
-    pdf: https://arxiv.org/abs/2208.08897
-    image: ./images/NeIF/teaser.png
+  # - title: "NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo"
+  #   authors: "<strong>Zongrui Li</strong>, Qian Zheng, Feishi Wang, Boxin Shi, Gang Pan, Xudong Jiang"
+  #   conference_short: arXiv
+  #   conference: arXiv Preprint, 2022
+  #   pdf: https://arxiv.org/abs/2208.08897
+  #   image: ./images/NeIF/teaser.png

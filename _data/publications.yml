@@ -14,7 +14,7 @@ main:
     image: ./images/RigMo/teaser.png
 
   - title: "Revisiting Supervised Learning-Based Photometric Stereo Networks"
-    authors: "Xiaoyao Wei, <strong>Zongrui Li</strong>, Binjie Ding, Boxin Shi, Xudong Jiang, Gang Pan, Qian Zheng, Yanlong Cao"
+    authors: "Xiaoyao Wei, <strong>Zongrui Li<sup>#</sup></strong>, Binjie Ding, Boxin Shi, Xudong Jiang, Gang Pan, Qian Zheng<sup>#</sup>, Yanlong Cao<sup>#</sup>"
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025
     pdf: https://downloads.ctfassets.net/yreyglvi5sud/6sgqvQLHmJyqeGshEQBzzR/864c79531e24452326cab06fc0bce103/Wei_TPAMI25.pdf

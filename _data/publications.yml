@@ -3,7 +3,7 @@ main:
   - title: "Monocular Normal Estimation via Shading Sequence Estimation"
     authors: "<strong>Zongrui Li*</strong>, Xinhua Ma*, Minghui Hu, Yunqing Zhao, Yingchen Yu, Qian Zheng, Chang Liu, Xudong Jiang, Song Bai"
     conference_short: ICLR 2026
-    conference: International Conference on Learning Representations (ICLR), 2026
+    conference: International Conference on Learning Representations (ICLR), 2026, <strong>Oral Presentation</strong>
     image: ./images/ROSE/teaser.png
 
   - title: "RigMo: Unifying Rig and Motion Learning for Generative Animation"

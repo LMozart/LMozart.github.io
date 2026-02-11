@@ -21,7 +21,7 @@ My research interests are broad due to my interdisciplinary background. Previous
 
 <h2 style="margin: 40px 0px 10px;">Working Experiences</h2>
 
-- Sep. 2025 - Jun. 2026, Research intern at MiroMind, Singapore.
+- Sep. 2025 - Jan. 2026, Research intern at MiroMind, Singapore.
 - Apr. 2025 - Sep. 2025, Research intern at TikTok, Singapore.
 - Aug. 2020 - Aug. 2021, Research intern at Institute for Infocomm Research (I2R), A*STAR, Singapore.
 - Apr. 2019 - Apr. 2020, Research intern at Institute of Software, Chinese Academy of Sciences, China.

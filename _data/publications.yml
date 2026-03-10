@@ -6,6 +6,7 @@ main:
     conference: International Conference on Learning Representations (ICLR), 2026, <strong style="color:red">Oral Presentation (Top 1.18%)</strong>
     pdf: https://arxiv.org/abs/2602.09929
     image: ./images/ROSE/teaser.png
+    page: https://xinhua694.github.io/RoSE.github.io/
 
   - title: "RigMo: Unifying Rig and Motion Learning for Generative Animation"
     authors: "Hao Zhang, Jiahao Luo, Bohui Wan, Yizhou Zhao, <strong>Zongrui Li</strong>, Michael Vasilkovsky, Chaoyang Wang, Jian Wang, Narendra Ahuja, Bing Zhou"
